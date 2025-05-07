@@ -19,7 +19,7 @@ Typing Speed Game is a web application which allow's users to test their typing 
 
 ## Screenshots
 
-![typing_game](./images/image3.jpg)
+![typing_game](./images/image3.png)
 
 ## Getting Started
 
